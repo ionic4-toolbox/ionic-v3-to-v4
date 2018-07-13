@@ -70,7 +70,11 @@ or
 
 ### Plugins
 
-[cordova-plugin-ionic-webview - Beta for Ionic v4 compatibility](https://github.com/ionic-team/cordova-plugin-ionic-webview) 
+[cordova-plugin-ionic-webview - Beta for Ionic v4 compatibility](https://github.com/ionic-team/cordova-plugin-ionic-webview)
+
+### Ionic v4 documentation - beta
+
+[https://beta.ionicframework.com/docs/](https://beta.ionicframework.com/docs/) 
 
 ## License
 
