@@ -28,16 +28,7 @@ To create the Ionic v4 project structure, I used the Ionic cli v4. To install it
     cd /pathtomyalternatecli/
     npm install ionic@rc
 
-then edit `start.js` 
-
-    cd node_modules/ionic/dist/commands/
-    vim start.js
-
-search `STARTER_TEMPLATES` and edit the return value in order to not filter according the global variable respectively
-
-     return STARTER_TEMPLATES;
-
-we are all set, we could now create a Ionic v4 angular project using your 2nd cli
+we are all set, we could now create a Ionic v4 using Angular v6 project with our 2nd cli
                 
      cd /somewhereelse/
      /pathtomyalternatecli/node_modules/ionic/bin/ionic start 
